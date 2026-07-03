@@ -1,0 +1,11 @@
+# Pastas de compilação e cache da Arduino IDE
+build/
+*.elf
+*.bin
+*.hex
+*.map
+.arduino-IDE/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
